@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zoo Directory</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_info">Information</string>
+    <string name="action_uninstall">Uninstall</string>
+    <string name="panda_desc">Panda also known as panda bear is a bear native to south central China. It is easily recognized by the large, distinctive black patches around its eyes, over the ears, and across its round body.</string>
+    <string name="bear_desc"> Bears have large bodies with stocky legs, long snouts, shaggy hair, plantigrade paws with five nonretractile claws, and short tails. </string>
+    <string name="koala_desc">Koala is a native to Australia. It is easily recognisable by its stout, tailless body; round, fluffy ears; and large, spoon-shaped nose.</string>
+    <string name="giraffe_desc">The giraffe is an African even-toed ungulate mammal, the tallest living terrestrial animal and the largest ruminant. It has camel-like appearance and the patches of color on its fur. It has extremely long neck and legs, its horn-like ossicones, and its distinctive coat patterns. </string>
+    <string name="tiger_desc">The tiger is the largest cat species, reaching a total body length of up to 3.38 m (11.1 ft) over curves and weighing up to 388.7 kg (857 lb) in the wild. Its most recognisable feature is a pattern of dark vertical stripes on reddish-orange fur with a lighter underside.</string>
+    <string name="zoo_info_detail">Zoo is situated at 500 ElCamino Real, Santa Clara, CA - 95050</string>
+
+
+</resources>
